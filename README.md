@@ -18,13 +18,13 @@ src="https://camo.githubusercontent.com/273e7886fd1d0e6be33c15cabb56117682aa0a5c
 
 <h4>BIO</h4>
 
-* 💻 Proficient in: ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
+* 🎯 Proficient in: ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
 
-* 🔭 Currently orchestrating the symphony of <code style="color : aqua">MERN Stack Development</code> and mastering the art of Data Structures and Algorithms.
+* 🔭 Currently orchestrating the symphony of <code style="bcolor : aqua">MERN Stack Development</code> and mastering the art of Data Structures and Algorithms.
 
 * 🌱 Continuously expanding the galaxies of software development knowledge.
 
-* 👯 Eager to collaborate on shaping the universe through Open Source Contributions.
+* <img src="https://camo.githubusercontent.com/3c69dbe108e25f2e6cabdddf2deb603052cb55be5a09b20e9188f696770a0f23/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4c6e516a7057614f4e386e68723231764e572f67697068792e676966" width="28" height="21" /> Eager to collaborate on shaping the universe through Open Source Contributions.
 
 * 💬 Ask me about the secrets of Problem-solving and DSA.
 
@@ -35,5 +35,8 @@ src="https://camo.githubusercontent.com/273e7886fd1d0e6be33c15cabb56117682aa0a5c
     ![](https://github-readme-stats.vercel.app/api/top-langs/?username=luk027&theme=solarized-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 </details>
 
+<h4 align="center">
+  Connect with me <img src="https://raw.githubusercontent.com/milaan9/milaan9/main/Handshake.gif" width="60" height="27" />
+</h4>
 
-[![](https://visitcount.itsvg.in/api?id=luk027&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id={luk027}&icon=0&color=0)](https://visitcount.itsvg.in)
