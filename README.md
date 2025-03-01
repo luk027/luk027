@@ -7,7 +7,7 @@ src="https://user-images.githubusercontent.com/74038190/212744289-c46f1717-bfc9-
 <h4 align="center">
   <img 
 src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="30" height="30"/>
-  Hi, I'am <ins><b>Lookman Gohil</b></ins> . MERN Stack Developer! 
+  Hi, I'am <ins><b>Lookman Gohil</b></ins> . Software Development Engineer! 
   <img 
 src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="30" height="30"/>
 </h4>
@@ -18,7 +18,7 @@ src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-
 
 <h4>BIO</h4>
 
-* <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="28" height="21" /> Proficient in : ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+* <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="28" height="21" /> Proficient in : ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 * 🔭 Currently orchestrating the symphony of <code>MERN Stack Development</code> and mastering the art of Data Structures and Algorithms.
 
