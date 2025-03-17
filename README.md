@@ -37,16 +37,11 @@ src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-
 <h4>GitHub Stats📊</h4>
 <p>
 <div class='container'>
-  <img style="height: auto; width: 60%;" class="img" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luk027&show_icons=true&theme=tokyonight&layout=compact" />
-    &nbsp;
-    &nbsp;
-  <img style="height: auto; width: 35%;" class="img" src="https://github-readme-streak-stats.herokuapp.com/?user=luk027&show_icons=true&theme=tokyonight&layout=compact" />
+  <img style="height: auto; width: 96%;" class="img" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luk027&show_icons=true&theme=outrun&layout=compact" />
 </div>
-<div class='container'>
-  <img style="height: auto; width: 55%;" class="img" src="https://github-readme-stats.vercel.app/api?username=luk027&show_icons=true&theme=tokyonight&layout=compact" />
-    &nbsp;
-    &nbsp;
-  <img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luk027&show_icons=true&theme=tokyonight&layout=compact" />
+<div>
+  <img style="height: auto; width: 50%;" class="img" src="https://github-readme-stats.vercel.app/api?username=luk027&show_icons=true&theme=outrun&hide_border=true&layout=compact" />
+  <img style="height: auto; width: 45%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luk027&theme=outrun&show_icons=true&hide_border=true&layout=compact" />
 </div>
 </p>    
 </div>
