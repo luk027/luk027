@@ -1,50 +1,84 @@
-<!--- Introduction --->
 <div align="right">
-  <img src="https://komarev.com/ghpvc/?username=luk027" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=luk027&color=blue&style=flat-square&label=PROFILE+VIEWS" alt="Profile views" />
 </div>
 
-<h1 align="center">Hi 👋, I'm Lookman Gohil</h1>
-<h3 align="left">A passionate Software Engineer</h3>
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Lookman Gohil | Software Engineer
 
-- 🔭 Currently working as a **SDE @Qodors Technologies**
-- 🌱 Intrested in learning **System Design, Clean Architecture, Backend Performance**
-- 💬 Ask me about **MERN, NextJS, TypeScript, Design Patterns**
-- 📫 How to reach me **lookman.gohil@gmail.com**
+<div align="center">
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://x.com/luqmandotdev" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" />
-  </a>
-  <a href="https://www.linkedin.com/in/lookmangohil" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
-  </a>
-  <a href="mailto:lookman.gohil@gmail.com" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" />
-  </a>
+**Full-Stack Development | Mobile Innovation | Backend Performance**
+
+<img src="https://readme-typing-svg.herokuapp.com?vCenter=true&width=600&lines=Software+Development+Engineer+@+Qodors+Technologies;Specializing+in+High-Performance+Web+%26+Mobile+Apps;Building+Scalable+Solutions+with+Modern+Tech+Stacks" height="40"/>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-luk--portfolio.vercel.app-000000?style=flat-square&logo=vercel)](https://luk-portfolio.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-lookmangohil-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/lookmangohil)
+[![X (Twitter)](https://img.shields.io/badge/X%20(Twitter)-luqmandotdev-000000?style=flat-square&logo=x)](https://x.com/luqmandotdev)
+[![Email](https://img.shields.io/badge/Email-lookman.gohil@gmail.com-D14836?style=flat-square&logo=gmail)](mailto:lookman.gohil@gmail.com)
+
+</div>
+
+---
+
+## 🎯 Professional Summary
+
+Highly motivated **Software Development Engineer** at **Qodors Technologies** with extensive experience in architecting and implementing high-performance web and mobile applications. Specializing in the **MERN Stack**, **Next.js**, and **React Native**, I focus on building scalable, efficient, and user-centric solutions. Passionate about applying **Clean Architecture** and **System Design** principles to solve complex technical challenges and optimize backend performance.
+
+**Current Focus:** Full-stack Architecture | React Native Performance | System Performance Optimization | Cloud Infrastructure (AWS)
+
+---
+
+### 🛠️ Tech Stack
+
+**Frontend & Mobile**  
+<p>
+  <img src="https://img.shields.io/badge/React-%2320232a?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/JavaScript-%23323330?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+  <img src="https://img.shields.io/badge/TypeScript-%23007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Zustand-%23000000?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redux-%23593d88?style=for-the-badge&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/RTK_Query-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/shadcn%2Fui-%23181818?style=for-the-badge&logo=radix-ui&logoColor=white" />
 </p>
-<br>
 
-<!--- Tech Stack --->
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Zustand](https://img.shields.io/badge/zustand-%23000000.svg?style=for-the-badge&logo=react&logoColor=white) ![TanStack Query](https://img.shields.io/badge/TanStack%20Query-%23FF4154.svg?style=for-the-badge&logo=react-query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![shadcn/ui](https://img.shields.io/badge/shadcn/ui-%23181818.svg?style=for-the-badge&logo=radix-ui&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![Ant Design](https://img.shields.io/badge/AntDesign-%230170FF.svg?style=for-the-badge&logo=ant-design&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Prisma](https://img.shields.io/badge/prisma-3982CE.svg?style=for-the-badge&logo=prisma&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-<br>
+**Backend & APIs**  
+<p>
+  <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-%23404d59?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/Hono.js-E36002?style=for-the-badge&logo=hono&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black" />
+  <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" />
+</p>
 
-<!--- Statistics --->
-# 📊 Statistics:
+**Database & Cloud Infrastructure**  
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+</p>
+
+**Tools & Development**  
+<p>
+  <img src="https://img.shields.io/badge/Git-%23F05033?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Figma-%23F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+</p>
+
+---
+
+### 📊 GitHub Analytics
+
 <div align="center">
-  <a href="https://github.com/luk027">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=luk027&theme=2077" height="180em" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=luk027&theme=2077" height="180em" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=luk027&theme=2077" height="180em" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=luk027&theme=2077" height="180em" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luk027&theme=2077" height="180em" />
-  </a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=luk027&theme=2077" height="192px" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=luk027&theme=2077" height="192px" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=luk027&theme=2077" height="192px" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=luk027&theme=2077" height="192px" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luk027&theme=2077" height="192px" />
 </div>
-<br>
-
-<!--- Contribution Graph --->
-<!-- <h2 align="left">⚡ Activity Graph</h2>
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=luk027&theme=react-dark" />
-</div> -->
